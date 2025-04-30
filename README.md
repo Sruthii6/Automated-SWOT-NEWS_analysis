@@ -1,6 +1,5 @@
 ![SWOT-AI](https://img.shields.io/badge/project-SWOT--AI-blueviolet)
 ![Python](https://img.shields.io/badge/python-3.10-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-Completed-brightgreen)
 
 # Automated SWOT Analysis from Business News
